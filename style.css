@@ -396,9 +396,16 @@ nav ul li a:hover {
 
 
 .card img{
-    width: 100px;
-    height: 200px;
-}
+    width: 90%;
+    height: 600px;
+    padding: auto;
+    margin-left: 60px;
+    background-color: black;
+    }
+
+    .card{
+     background-color: #ded37b8b;
+    }
 .vbpermbajtja{
     width: 100%;
     height: 900px;
@@ -417,3 +424,4 @@ nav ul li a:hover {
         height: auto;
     }
 }
+
