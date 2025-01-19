@@ -452,3 +452,11 @@ nav ul li a:hover {
     font-family: 'Times New Roman', Times, serif;
     background-color: grey;
 }
+
+.btn-primary{
+    background-color: black;
+}
+
+.btn-primary a{
+    background-color: black;
+}
